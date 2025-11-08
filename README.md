@@ -3,7 +3,6 @@
 **Sarana peningkatan skill dan kreativitas generasi muda di bidang teknologi kesehatan**
 
 [![Website](https://img.shields.io/badge/🌐-healtech--aoen.com-blue?style=flat-square)](https://healtech-aoen.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 [![Status](https://img.shields.io/badge/status-active-success?style=flat-square)]()
 [![Made with ❤️ by HIMA Informatika](https://img.shields.io/badge/Made%20with-❤️%20by%20HIMA%20Informatika-red?style=flat-square)]()
 
